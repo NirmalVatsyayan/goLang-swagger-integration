@@ -14,9 +14,9 @@ import (
 // @description This is a sample server Petstore server.
 // @termsOfService http://swagger.io/terms/
 
-// @contact.name API Support
+// @contact.name Nirmal Vatsyayan
 // @contact.url http://www.swagger.io/support
-// @contact.email support@swagger.io
+// @contact.email nirmal.vatsyayan1990@gmail.com
 
 // @license.name Apache 2.0
 // @license.url http://www.apache.org/licenses/LICENSE-2.0.html
