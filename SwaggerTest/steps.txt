@@ -1,0 +1,7 @@
+go get -u github.com/swaggo/swag/cmd/swag
+
+/Users/nirmalvatsyayan/Desktop/NirmalVatsyayan/gocode/bin/swag init
+
+go get -u github.com/swaggo/gin-swagger
+
+go get -u github.com/swaggo/gin-swagger/swaggerFiles
